@@ -1,0 +1,14 @@
+.log-btn{
+    width: 12%;
+    height: 12%;
+    padding-top: 5%;
+}
+
+.logout{
+    float: right;
+}
+
+.voltar{
+    float: left;
+
+}
